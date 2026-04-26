@@ -24,3 +24,6 @@ Rocket Launcher- unlocks the rocket launcher weapon- slow projectile weapon that
 Ammo refill- refills all unlocked weapons' ammo
 
 I am proud of the way i set up my waves and shop, the rotating maps give the player some variety, and the scaling of the waves and shop system was fun to work on, although i do wish i adjusted the price of the upgrades.
+
+
+Wrong title on the final commit, the gameplay recording was too large it will be sent with the link to the repository.
